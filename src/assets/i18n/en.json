@@ -1,0 +1,9 @@
+{
+  "COMMON": {
+    "MESSAGE": {
+      "SAVE_SHARED_VIEW_COPY": "Save a copy of the view, as you are not the owner of the view.",
+      "SAVE_SYSTEM_VIEW_COPY": "You cannot modify \"{{VIEW_NAME}}\" as it is a system view. But you can save this as a new view.",
+      "NO_MODULES_FOUND": "No Result Found"
+    }
+  }
+}
